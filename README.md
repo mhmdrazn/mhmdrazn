@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mhmdrazn](https://medium.com/@mhmdrazn)
 
-- 💬 Ask me about **Figmaor Web Design!**
+- 💬 Ask me about **Figma or Web Design!**
 
 - 📫 How to reach me **razan4944@gmail.com**
 
