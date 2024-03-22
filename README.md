@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Razan</h1>
-<h3 align="center">A passionate UI/UX Designer 👋</h3>
-
-- 🔭 I’m currently working on [Ini Lho ITS! 2024](https://inilho.its.ac.id/)
-
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1iu5XR4cYGc0DHGsuDEsg8KuWfYV9EX_6/view?usp=sharing](https://drive.google.com/file/d/1iu5XR4cYGc0DHGsuDEsg8KuWfYV9EX_6/view?usp=sharing)
-
-- 📝 I regularly write articles on [https://medium.com/@mhmdrazn](https://medium.com/@mhmdrazn)
-
-- 💬 Ask me about **Figma or Web Design!**
-
-- 📫 How to reach me **razan4944@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammadrazan/](https://www.linkedin.com/in/muhammadrazan/)
-
-- ⚡ Fun fact **Doesnt like matcha anymore!**
-
+<h3>👀 About Me</h3>
+<ul > I'm passionate about UI/UX Design, where I create visually stunning and user-friendly interfaces.</ul>🎨 
+<ul>Currently, I'm diving deep into the world of Web Development, constantly learning and improving my skills.</ul>
+<h3>🚀 What I'm Up To</h3>
+<ul>📚 Currently, I'm expanding my knowledge in:</ul>
+Frontend Development: HTML, CSS, JavaScript, React, etc.
+UX/UI Principles: Wireframing, Prototyping, User Testing, etc.
+<ul>🌐 Building exciting web projects to apply my skills.</ul>
+<ul>🤝 Open to collaboration on web projects or design endeavors.</ul>
+<h3>💬 Get in Touch</h3>
+<ul>📫 Reach out to me via email at razan4944@gmail.com.</ul>
+<ul>📱 Connect with me on <a> href <a href="https://www.linkedin.com/in/muhammadrazan/">LinkedIn</a> for professional networking.</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadrazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadrazan" height="30" width="40" /></a>
