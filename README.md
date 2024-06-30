@@ -7,10 +7,6 @@ About Me
 I'm passionate about **UI/UX Design**, where I create visually stunning and user-friendly interfaces.
 Currently, I'm diving deep into the world of **Web Development**, constantly learning and improving my skills.
 
-Currently, I'm expanding my knowledge in:
-  - Frontend Development: HTML, CSS, JavaScript, React, etc.
-  - UX/UI Principles: Wireframing, Prototyping, User Testing, etc.
- Building exciting web projects to apply my skills.
 Open to **collaboration** on web projects or design endeavors.
 
 💬 Get in Touch
