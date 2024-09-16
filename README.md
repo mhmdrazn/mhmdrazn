@@ -1,7 +1,9 @@
 <div align="left">
   <h1>👋 Hi there, I'm Razan!</h1>
 </div>
-
+<div>
+  
+</div>
 About Me
 
 I'm passionate about **UI/UX Design**, where I create visually stunning and user-friendly interfaces.
