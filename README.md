@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <h1>👋 Hi there, I'm Razan!</h1>
 </div>
 
