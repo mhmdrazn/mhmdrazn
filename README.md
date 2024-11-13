@@ -1,22 +1,68 @@
+<h1 align="center">👋 Hi Buddy, I'm Razan!</h1>
+
+###
+
+<p align="left">I'm passionate about UI/UX Design, where I create visually stunning and user-friendly interfaces.<br>Currently, I'm diving deep into the world of Web Development, constantly learning and improving my skills.</p>
+
+###
+
+Open to collaboration on web projects or design endeavors.<br><br>💬 Get in Touch<br>Reach out to me via email at [razan4944@gmail.com](mailto:razan4944@gmail.com).<br>Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadrazan/) for professional networking.
+
+###
+
 <div align="left">
-  <h1>👋 Hi there, I'm Razan!</h1>
+  <a href="https://www.linkedin.com/in/muhammadrazan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/mhmdrazn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram.com/mhmdrazn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.medium.com/mhmdrazn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
 </div>
 
-<h3>About Me</h3>
+###
 
-I'm passionate about **UI/UX Design**, where I create visually stunning and user-friendly interfaces.
-Currently, I'm diving deep into the world of **Web Development**, constantly learning and improving my skills.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrazn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="170" alt="languages graph"  />
+</div>
 
-Open to **collaboration** on web projects or design endeavors.
+###
 
-💬 Get in Touch
-Reach out to me via email at [razan4944@gmail.com](mailto:razan4944@gmail.com).
-Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadrazan/) for professional networking.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrazn&show_icons=true&locale=en&layout=compact" alt="mhmdrazn" /></p>
+<img src="https://raw.githubusercontent.com/mhmdrazn/mhmdrazn/output/snake.svg" alt="Snake animation" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdrazn&show_icons=true&locale=en" alt="mhmdrazn" /></p>
+###
