@@ -33,7 +33,7 @@ Open to collaboration on web projects or design endeavors.<br><br>💬 Get in To
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmdrazn&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrazn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrazn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
