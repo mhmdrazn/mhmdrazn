@@ -2,13 +2,17 @@
 
 ###
 
-<p align="left">I'm passionate about UI/UX Design, where I create visually stunning and user-friendly interfaces.<br>Currently, I'm diving deep into the world of Web Development, constantly learning and improving my skills.</p>
+<h3>About Me</h3>
+
+I'm passionate about **UI/UX Design**, where I create visually stunning and user-friendly interfaces.<br>Currently, I'm diving deep into the world of Web Development, constantly learning and improving my skills.
 
 ###
 
 Open to collaboration on web projects or design endeavors.<br><br>💬 Get in Touch<br>Reach out to me via email at [razan4944@gmail.com](mailto:razan4944@gmail.com).<br>Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadrazan/) for professional networking.
 
 ###
+
+<h3>Connect with Me!</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammadrazan/" target="_blank">
@@ -28,7 +32,8 @@ Open to collaboration on web projects or design endeavors.<br><br>💬 Get in To
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrazn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdrazn&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrazn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
