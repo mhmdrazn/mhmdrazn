@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi Buddy, I'm Razan!</h1>
+<h1 align="lceft">👋 Hi Buddy, I'm Razan!</h1>
 
 ###
 
