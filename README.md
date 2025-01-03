@@ -4,7 +4,7 @@
 
 <h3>About Me</h3>
 
-I'm passionate about **UI/UX Design**, where I create visually stunning and user-friendly interfaces.<br>Currently, I'm diving deep into the world of Web Development, constantly learning and improving my skills.
+I'm passionate about **UI/UX Design**, where I create visually stunning and user-friendly interfaces.<br>Currently, I'm diving deep into the world of Web Development.
 ###
 Open to collaboration on web projects or design endeavors.
 <h3>💬 Get in Touch<h3>
