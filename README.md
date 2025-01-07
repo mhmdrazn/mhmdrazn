@@ -1,4 +1,4 @@
-<h1 align="ff">👋 Hi Buddy, I'm Razan!</h1>
+<h1 align="center">👋 Hi Buddy, I'm Razan!</h1>
 
 ###
 
