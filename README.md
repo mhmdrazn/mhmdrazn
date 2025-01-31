@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi Buddy, I'm Razan!</h1>
-![](https://komarev.com/ghpvc/?username=mhmdrazn&style=lightgrey)
+
+![](https://komarev.com/ghpvc/?username=mhmdrazn&style=plastic)
 
 ###
 
