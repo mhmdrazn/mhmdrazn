@@ -37,13 +37,6 @@ Reach out to me via email at [razan4944@gmail.com](mailto:razan4944@gmail.com).<
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdrazn&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrazn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
